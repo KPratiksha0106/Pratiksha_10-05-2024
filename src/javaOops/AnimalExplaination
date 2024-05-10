@@ -1,0 +1,18 @@
+For Animal Class
+
+-Here, in the animal class,the class name is animal.
+- We are using field for declaration of variables or we can say here we are declare and initialize the properties of animal.
+-In the field we have used private access modifier.
+-Then we used constructor, the constructor name is same as class name default constructor,
+ in which we gave some values for the variables means we gave values for the properties of animal.
+-after that we have used parameterized constructor,in which again we gave different values to the variables.
+-then we have used a method, in which we have to display something  (DisplayAnimalFeatures).
+
+
+For Test class
+-Here we have creates a class Test.
+-then we have created main method , we did not used a main method in Animal class.
+-then we have created an object by using new word to call a properties of Animal class.
+-First we called properties of default constructor
+-then we called parameterized constructor and we put another values for properties of Animal.
+

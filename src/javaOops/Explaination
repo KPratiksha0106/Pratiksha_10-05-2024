@@ -1,0 +1,51 @@
+1)Class= class is nothing but the blueprint or plan of an object.
+
+2)Object= the object is physically existed.
+==================================================================================================================
+
+3)Constructor:-
+ ~It is a special method which is used to show state of object or initialize the object.
+
+* Types of constructor:-
+ ~ Theere are mainly two types of constructor=
+ a) Default Constructor/Zero Parameterized Constructor[no parameters passed in the constructor]
+ #syntax:-
+           ClassName()
+                     {
+                       
+                      }
+
+
+ b) Parameterized Constructor[Constructor in which accepts the parameters]
+ ~ basically it is used to initialized the values.
+#syntax:-
+           ClassName(10,"Ram")
+                     {
+                       
+                      }
+
+*Rules for Constructor:-
+~ constructor name must be same as class name.
+~ access modifier are allowed [public, private, protected, default].
+~ constructor does not have any return type.
+====================================================================================================================
+4) new Keyword:-
+~ used to create an instance of a class / object.
+~ It is used to allocate memory for an object in the heap memory,The memory space where objects are stored.
+~ The new keyword in Java calls the constructor of a class to initialize the object. 
+
+#Syntax:- 
+          new ClassName();
+======================================================================================================================
+
+
+
+
+
+             
+
+
+
+
+
+
